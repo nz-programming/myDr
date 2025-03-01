@@ -1,2 +1,2 @@
 # logme
-log yourself and analyze you
+log and analyze you, unveiling your life
