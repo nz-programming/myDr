@@ -1,0 +1,13 @@
+### macOS ###
+# General
+.DS_Store
+
+### node ###
+# Dependency directories
+node_modules/
+
+### auth ###
+auth/
+
+### data ###
+data/
